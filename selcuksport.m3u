@@ -1,0 +1,259 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT 1 HD [1]" tvg-logo="https://i.hizliresim.com/r4ggo98.png" group-title="Ulusal Tv",[TR] TRT 1 HD [1]
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT 1 HD VLC [2]" tvg-logo="https://i.hizliresim.com/r4ggo98.png" group-title="Ulusal Tv",[TR] TRT 1 HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT 1 HD [3]" tvg-logo="https://i.hizliresim.com/r4ggo98.png" group-title="Ulusal Tv",[TR] TRT 1 HD [3]
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT 1 HD [4]" tvg-logo="https://i.hizliresim.com/r4ggo98.png" group-title="Ulusal Tv",[TR] TRT 1 HD [4]
+https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/a8875e4c-8633-420d-a3f1-9b66609d73c1/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ATV HD [1]" tvg-logo="https://i.hizliresim.com/mmox5g4.png" group-title="Ulusal Tv",[TR] ATV HD [1]
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ATV HD [2]" tvg-logo="https://i.hizliresim.com/mmox5g4.png" group-title="Ulusal Tv",[TR] ATV HD [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KANAL D HD [1]" tvg-logo="https://i.hizliresim.com/7i8vdhs.png" group-title="Ulusal Tv",[TR] KANAL D HD [1]
+https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KANAL D HD VLC [2]" tvg-logo="https://i.hizliresim.com/7i8vdhs.png" group-title="Ulusal Tv",[TR] KANAL D HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] STAR TV HD [1]" tvg-logo="https://i.hizliresim.com/7g38vu3.png" group-title="Ulusal Tv",[TR] STAR TV HD [1]
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] STAR TV HD [2]" tvg-logo="https://i.hizliresim.com/7g38vu3.png" group-title="Ulusal Tv",[TR] STAR TV HD [2]
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] STAR TV HD VLC [3]" tvg-logo="https://i.hizliresim.com/7g38vu3.png" group-title="Ulusal Tv",[TR] STAR TV HD VLC [3]
+https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] STAR TV HD [1]" tvg-logo="https://i.hizliresim.com/7g38vu3.png" group-title="Ulusal Tv",[TR] STAR TV HD [1]
+https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SHOW TV HD [2]" tvg-logo="https://i.hizliresim.com/otld7cs.png" group-title="Ulusal Tv",[TR] SHOW TV HD [2]
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SHOW TV HD VLC [3]" tvg-logo="https://i.hizliresim.com/otld7cs.png" group-title="Ulusal Tv",[TR] SHOW TV HD VLC [3]
+https://59c7ea6bec1c6.streamlock.net/filbox/showtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FOX HD VLC [1]" tvg-logo="https://i.hizliresim.com/bisg6qa.png" group-title="Ulusal Tv",[TR] FOX HD VLC [1]
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FOX HD [2]" tvg-logo="https://i.hizliresim.com/bisg6qa.png" group-title="Ulusal Tv",[TR] FOX HD [2]
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TV8 HD [1]" tvg-logo="https://i.hizliresim.com/459sl3e.png" group-title="Ulusal Tv",[TR] TV8 HD [1]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TV8 HD VLC [2]" tvg-logo="https://i.hizliresim.com/459sl3e.png" group-title="Ulusal Tv",[TR] TV8 HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TEVE 2 HD [1]" tvg-logo="https://i.hizliresim.com/ioh8gje.png" group-title="Ulusal Tv",[TR] TEVE 2 HD [1]
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TEVE 2 HD VLC [2]" tvg-logo="https://i.hizliresim.com/ioh8gje.png" group-title="Ulusal Tv",[TR] TEVE 2 HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/teve2.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TEVE 2 HD [3]" tvg-logo="https://i.hizliresim.com/ioh8gje.png" group-title="Ulusal Tv",[TR] TEVE 2 HD [3]
+https://teve2dvr.blutv.com/blutv_teve2_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEYAZ TV HD [1]" tvg-logo="https://i.hizliresim.com/bo7hh2j.png" group-title="Ulusal Tv",[TR] BEYAZ TV HD [1]
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEYAZ TV HD VLC [2]" tvg-logo="https://i.hizliresim.com/bo7hh2j.png" group-title="Ulusal Tv",[TR] BEYAZ TV HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/beyaztv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEYAZ TV HD [3]" tvg-logo="https://i.hizliresim.com/bo7hh2j.png" group-title="Ulusal Tv",[TR] BEYAZ TV HD [3]
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A2 HD" tvg-logo="https://i.hizliresim.com/p4zf9x6.png" group-title="Ulusal Tv",[TR] A2 HD
+https://trkvz-live.daioncdn.net/a2tv/a2tv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT2 HD [1]" tvg-logo="https://i.hizliresim.com/ihvxodr.png" group-title="Ulusal Tv",[TR] TRT2 HD [1]
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT2 HD [2]" tvg-logo="https://i.hizliresim.com/ihvxodr.png" group-title="Ulusal Tv",[TR] TRT2 HD [2]
+http://195.155.98.170:5858/play/a09p
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KANAL7 HD [1]" tvg-logo="https://i.hizliresim.com/428zekz.png" group-title="Ulusal Tv",[TR] KANAL7 HD [1]
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KANAL7 HD [2]" tvg-logo="https://i.hizliresim.com/428zekz.png" group-title="Ulusal Tv",[TR] KANAL7 HD [2]
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Blutv Sinema [1]" tvg-logo="https://i.hizliresim.com/8z4fwra." group-title="Ulusal Tv",[TR] Blutv Sinema [1]
+https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Blutv Sinema [2]" tvg-logo="https://i.hizliresim.com/k53xx35." group-title="Ulusal Tv",[TR] Blutv Sinema [2]
+https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT Cocuk HD" tvg-logo="https://i.hizliresim.com/d9pcwcu.png" group-title="Ulusal Tv",[TR] TRT Cocuk HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TLC HD [1]" tvg-logo="https://i.hizliresim.com/1bkuai3.png" group-title="Belgesel TV",[TR] TLC HD [1]
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TLC HD [2]" tvg-logo="https://i.hizliresim.com/1bkuai3.png" group-title="Belgesel TV",[TR] TLC HD [2]
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TLC HD VLC [3]" tvg-logo="https://i.hizliresim.com/1bkuai3.png" group-title="Belgesel TV",[TR] TLC HD VLC [3]
+https://59c7ea6bec1c6.streamlock.net/filbox/tlc.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dmax HD [1]" tvg-logo="https://i.hizliresim.com/jewv375.png" group-title="Belgesel TV",[TR] Dmax HD [1]
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dmax HD [2]" tvg-logo="https://i.hizliresim.com/jewv375.png" group-title="Belgesel TV",[TR] Dmax HD [2]
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dmax HD VLC [3]" tvg-logo="https://i.hizliresim.com/jewv375.png" group-title="Belgesel TV",[TR] Dmax HD VLC [3]
+https://59c7ea6bec1c6.streamlock.net/filbox/dmax.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT Belgesel HD [1]" tvg-logo="https://i.hizliresim.com/1vegcf2.png" group-title="Belgesel TV",[TR] TRT Belgesel HD [1]
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT Belgesel HD [2]" tvg-logo="https://i.hizliresim.com/1vegcf2.png" group-title="Belgesel TV",[TR] TRT Belgesel HD [2]
+https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/556cafd3-0e9a-4489-a3ce-63bf7fe69fb7/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Yaban Tv HD [1]" tvg-logo="https://i.hizliresim.com/q90itvq.png" group-title="Belgesel TV",[TR] Yaban Tv HD [1]
+http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Yaban Tv HD [2]" tvg-logo="https://i.hizliresim.com/q90itvq.png" group-title="Belgesel TV",[TR] Yaban Tv HD [2]
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TGRT Belgesel HD [1]" tvg-logo="https://i.hizliresim.com/tjl83g6.png" group-title="Belgesel TV",[TR] TGRT Belgesel HD [1]
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TGRT Belgesel HD VLC [2]" tvg-logo="https://i.hizliresim.com/tjl83g6.png" group-title="Belgesel TV",[TR] TGRT Belgesel HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/tgrtbelgesel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT Haber HD" tvg-logo="https://i.hizliresim.com/ds8xd5l.png" group-title="Haber TV",[TR] TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CNN Turk HD [1]" tvg-logo="https://i.hizliresim.com/22rbyl7.png" group-title="Haber TV",[TR] CNN Turk HD [1]
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CNN Turk HD VLC [2]" tvg-logo="https://i.hizliresim.com/22rbyl7.png" group-title="Haber TV",[TR] CNN Turk HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CNN Turk HD [3]" tvg-logo="https://i.hizliresim.com/22rbyl7.png" group-title="Haber TV",[TR] CNN Turk HD [3]
+https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A Haber VLC HD" tvg-logo="https://i.hizliresim.com/fq98cer.png" group-title="Haber TV",[TR] A Haber VLC HD
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TGRT Haber HD [1]" tvg-logo="https://i.hizliresim.com/i5yp0wm.png" group-title="Haber TV",[TR] TGRT Haber HD [1]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TGRT Haber HD [2]" tvg-logo="https://i.hizliresim.com/i5yp0wm.png" group-title="Haber TV",[TR] TGRT Haber HD [2]
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TV 100 HD" tvg-logo="https://i.hizliresim.com/799k0fb.png" group-title="Haber TV",[TR] TV 100 HD
+https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Haber Turk HD VLC [1]" tvg-logo="https://i.hizliresim.com/65d6l7u.png" group-title="Haber TV",[TR] Haber Turk HD VLC [1]
+https://59c7ea6bec1c6.streamlock.net/filbox/haberturk.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Haber Turk HD [2]" tvg-logo="https://i.hizliresim.com/65d6l7u.png" group-title="Haber TV",[TR] Haber Turk HD [2]
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Haber Global HD [1]" tvg-logo="https://i.hizliresim.com/idwgtib.png" group-title="Haber TV",[TR] Haber Global HD [1]
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Haber Global HD VLC [2]" tvg-logo="https://i.hizliresim.com/idwgtib.png" group-title="Haber TV",[TR] Haber Global HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Haber Global HD [3]" tvg-logo="https://i.hizliresim.com/idwgtib.png" group-title="Haber TV",[TR] Haber Global HD [3]
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TV 24 HD" tvg-logo="https://i.hizliresim.com/iblvlqf.png" group-title="Haber TV",[TR] TV 24 HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TV 24 HD" tvg-logo="https://i.hizliresim.com/iblvlqf.png" group-title="Haber TV",[TR] TV 24 HD
+https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] HALK TV HD [1]" tvg-logo="https://i.hizliresim.com/hfnngh7.png" group-title="Haber TV",[TR] HALK TV HD 1]
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] HALK TV HD VLC [2]" tvg-logo="https://i.hizliresim.com/hfnngh7.png" group-title="Haber TV",[TR] HALK TV HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] HALK TV HD [3]" tvg-logo="https://i.hizliresim.com/hfnngh7.png" group-title="Haber TV",[TR] HALK TV HD [3]
+https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TELE 1 HD" tvg-logo="https://i.hizliresim.com/mx6oxfe.png" group-title="Haber TV",[TR] TELE 1 HD
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NTV Haber HD [1]" tvg-logo="https://i.hizliresim.com/8sjz4b7.png" group-title="Haber TV",[TR] NTV Haber HD [1]
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NTV Haber HD VLC [2]" tvg-logo="https://i.hizliresim.com/8sjz4b7.png" group-title="Haber TV",[TR] NTV Haber HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NTV Haber HD [3]" tvg-logo="https://i.hizliresim.com/8sjz4b7.png" group-title="Haber TV",[TR] NTV Haber HD [3]
+https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ULKE TV HD" tvg-logo="https://i.hizliresim.com/c3nwodi.png" group-title="Haber TV",[TR] ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Akit TV HD [1]" tvg-logo="https://i.hizliresim.com/quyylxp.png" group-title="Haber TV",[TR] Akit TV HD [1]
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Akit TV HD VLC [2]" tvg-logo="https://i.hizliresim.com/quyylxp.png" group-title="Haber TV",[TR] Akit TV HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/akittv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KRT TV HD" tvg-logo="https://i.hizliresim.com/ae5789n.png" group-title="Haber TV",[TR] KRT TV HD
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bloomberg HD [1]" tvg-logo="https://i.hizliresim.com/s4i8dav.png" group-title="Haber TV",[TR] Bloomberg HD [1]
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Bloomberg HD [2]" tvg-logo="https://i.hizliresim.com/s4i8dav.png" group-title="Haber TV",[TR] Bloomberg HD [2]
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT Spor HD [1]" tvg-logo="https://i.hizliresim.com/gbwb37m.png" group-title="Spor Tv",[TR] TRT Spor HD [1]
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT Spor HD [2]" tvg-logo="https://i.hizliresim.com/8blxyc3.png" group-title="Spor Tv",[TR] TRT Spor HD [2]
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A Spor HD [1]" tvg-logo="https://i.hizliresim.com/c6z0jdt.png" group-title="Spor Tv",[TR] A Spor HD [1]
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] A Spor HD VLC [2]" tvg-logo="https://i.hizliresim.com/c6z0jdt.png" group-title="Spor Tv",[TR] A Spor HD VLC [2]
+https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TJK TV HD" tvg-logo="https://i.hizliresim.com/m7v4798.png" group-title="Spor Tv",[TR] TJK TV HD
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] GS TV HD" tvg-logo="https://i.hizliresim.com/js7tjho.png" group-title="Spor Tv",[TR] GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FB TV VLC HD" tvg-logo="https://i.hizliresim.com/avo3vpv.png" group-title="Spor Tv",[TR] FB TV VLC HD
+https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CBC Sport VLC HD" tvg-logo="https://i.hizliresim.com/j15t70e.png" group-title="Spor Tv",[TR] CBC Sport VLC HD
+https://59c7ea6bec1c6.streamlock.net/filbox/cbcsport.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Euro Sport [1]" tvg-logo="https://i.hizliresim.com/n1ius1z.png" group-title="Spor Tv",[TR] Euro Sport [1]
+https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Euro Sport [2]" tvg-logo="https://i.hizliresim.com/mncw7b5.png" group-title="Spor Tv",[TR] Euro Sport [2]
+https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports VLC [Haber]" tvg-logo="https://i.hizliresim.com/emn6p0f.png" group-title="Spor Tv",[TR] beIN Sports VLC [Haber]
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports [Haber]" tvg-logo="https://i.hizliresim.com/emn6p0f.png" group-title="Spor Tv",[TR] beIN Sports [Haber]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/11/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports [1]" tvg-logo="https://i.hizliresim.com/q8k55y0.png" group-title="Spor Tv",[TR] beIN Sports [1]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/selcukbein1app/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports [2]" tvg-logo="https://i.hizliresim.com/3r1i8g0.png" group-title="Spor Tv",[TR] beIN Sports [2]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/selcukbein2app/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports [3]" tvg-logo="https://i.hizliresim.com/p6iu4fj.png" group-title="Spor Tv",[TR] beIN Sports [3]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/26/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports [4]" tvg-logo="https://i.hizliresim.com/i2k44mt.png" group-title="Spor Tv",[TR] beIN Sports [4]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/27/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports Max [1]" tvg-logo="https://i.hizliresim.com/n0fcb32.png" group-title="Spor Tv",[TR] beIN Sports Max [1]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/28/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN Sports Max [2]" tvg-logo="https://i.hizliresim.com/sihdy1f.png" group-title="Spor Tv",[TR] beIN Sports Max [2]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/29/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport [1]" tvg-logo="https://i.hizliresim.com/c0shmcl.png" group-title="Spor Tv",[TR] S Sport [1]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/58/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] S Sport [2]" tvg-logo="https://i.hizliresim.com/bv25vjq.png" group-title="Spor Tv",[TR] S Sport [2]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/59/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Smart Sport [1]" tvg-logo="https://i.hizliresim.com/m18zo8q.png" group-title="Spor Tv",[TR] Smart Sport [1]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/60/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor [1]" tvg-logo="https://i.hizliresim.com/c6ej94a.jpg" group-title="Spor Tv",[TR] Tivibu Spor [1]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/61/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor [2]" tvg-logo="https://i.hizliresim.com/6f3mxrw.png" group-title="Spor Tv",[TR] Tivibu Spor [2]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/62/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Tivibu Spor [3]" tvg-logo="https://i.hizliresim.com/orfmltb.png" group-title="Spor Tv",[TR] Tivibu Spor [3]
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/63/strmrdr.m3u8
+#EXTINF:-1 tvg-id="beinofice1.tr" tvg-name="[TR] Bein Box Office 1 Hd" tvg-logo="https://i.hizliresim.com/mq7h403.png" group-title="Sinema Tv",[TR] Bein Box Office 1 Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/7/strmrdr.m3u8
+#EXTINF:-1 tvg-id="beinofice2.tr" tvg-name="[TR] Bein Box Office 2 Hd" tvg-logo="https://i.hizliresim.com/mq7h403.png" group-title="Sinema Tv",[TR] Bein Box Office 2 Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/8/strmrdr.m3u8
+#EXTINF:-1 tvg-id="beinofice3.tr" tvg-name="[TR] Bein Box Office 3 Hd" tvg-logo="https://i.hizliresim.com/mq7h403.png" group-title="Sinema Tv",[TR] Bein Box Office 3 Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/9/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BBC EARTH HD" tvg-logo="https://i.hizliresim.com/7gcag1y.png" group-title="Sinema Tv",[TR] BBC EARTH HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/6/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.314" tvg-name="[TR] Bein Movies Action Hd" tvg-logo="https://i.hizliresim.com/bepyrpa.png" group-title="Sinema Tv",[TR] Bein Movies Action Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/13/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.314" tvg-name="[TR] Bein Movies Action 2 Hd" tvg-logo="https://i.hizliresim.com/tpztjnf.png" group-title="Sinema Tv",[TR] Bein Movies Action 2 Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/14/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.316" tvg-name="[TR] Bein Movies Family Hd" tvg-logo="https://i.hizliresim.com/l4hk582.png" group-title="Sinema Tv",[TR] Bein Movies Family Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/15/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.311" tvg-name="[TR] Bein Movies Premiere Hd" tvg-logo="https://i.hizliresim.com/dwn0v4m.png" group-title="Sinema Tv",[TR] Bein Movies Premiere Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/16/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.312" tvg-name="[TR] Bein Movies Premiere 2 Hd" tvg-logo="https://i.hizliresim.com/gazmxvg.png" group-title="Sinema Tv",[TR] Bein Movies Premiere 2 Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/17/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.313" tvg-name="[TR] Bein Movies Stars Hd" tvg-logo="https://i.hizliresim.com/c1vy98h.png" group-title="Sinema Tv",[TR] Bein Movies Stars Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/18/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.317" tvg-name="[TR] Bein Movies Turk Hd" tvg-logo="https://i.hizliresim.com/rejx0f9.png" group-title="Sinema Tv",[TR] Bein Movies Turk Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/19/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.304" tvg-name="[TR] Bein Series Comedy Hd" tvg-logo="https://i.hizliresim.com/otrw747.png" group-title="Sinema Tv",[TR] Bein Series Comedy Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/20/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.302" tvg-name="[TR] Bein Series Sci-fi Hd" tvg-logo="http://logo.apk-red.com/cdn/beinseriesscifihd.png" group-title="Sinema Tv",[TR] Bein Series Sci-fi Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/22/strmrdr.m3u8
+#EXTINF:-1 tvg-id="dt.305" tvg-name="[TR] Bein Series Vice Hd" tvg-logo="https://i.hizliresim.com/npbuint.png" group-title="Sinema Tv",[TR] Bein Series Vice Hd
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/23/strmrdr.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="[TR] DISCOVERY CHANNEL HD" tvg-logo="https://i.hizliresim.com/b6wgljr.png" group-title="Sinema Tv",[TR] DISCOVERY CHANNEL HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/32/strmrdr.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="[TR] DISCOVERY SCIENCE HD" tvg-logo="https://i.hizliresim.com/qk8bytc.png" group-title="Sinema Tv",[TR] DISCOVERY SCIENCE HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/33/strmrdr.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="[TR] ID HD" tvg-logo="https://i.hizliresim.com/shnbmh1." group-title="Sinema Tv",[TR] ID HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/41/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Turk HD" tvg-logo="https://i.hizliresim.com/2x391l8.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Turk HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/46/strmrdr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TR] D-Smart Moviesmart Classic" tvg-logo="https://i.hizliresim.com/7lvilsx.png" group-title="Sinema Tv",[TR] D-Smart Moviesmart Classic
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/47/strmrdr.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicwild.tr" tvg-name="[TR] NAT GEO WILD HD" tvg-logo="https://i.hizliresim.com/zh1jyz2.png" group-title="Sinema Tv",[TR] NAT GEO WILD HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/55/strmrdr.m3u8
+#EXTINF:-1 tvg-id="viasatnaturehistory.tr" tvg-name="[TR] Viasat History HD" tvg-logo="https://i.hizliresim.com/1neoig3.png" group-title="Sinema Tv",[TR] Viasat History HD
+https://srvccc.fish91826twenty.ga/kaynakstreamradarco/64/strmrdr.m3u8
